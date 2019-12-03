@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.truck-name {
+  text-align: center;
+  font-size:60px;
+  color: darkmagenta;
+}
+
+
+.search {
+
+  text-align: center;
+  padding:15px;
+  margin-bottom: 5%;
+  border-radius:5px;
+  
+
+}
+
+
+.searchBar{
+
+  font-size:35px;
+  background-color: darkturquoise;
+}
